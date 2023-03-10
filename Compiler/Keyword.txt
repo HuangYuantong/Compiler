@@ -1,0 +1,13 @@
+main
+var
+int
+float
+bool
+char
+if
+else
+while
+for
+true
+false
+array
